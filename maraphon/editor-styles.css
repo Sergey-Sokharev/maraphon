@@ -1,0 +1,9 @@
+
+.entry-content ul, .entry-content ol {
+        list-style: inherit;
+        list-style-position: inside;
+}
+
+.aligncenter {
+	text-align: center;
+}
